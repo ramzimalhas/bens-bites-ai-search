@@ -28,7 +28,7 @@
     "clsx": "^1.2.1",
     "dequal": "^2.0.3",
     "framer-motion": "^10.9.1",
-    "meilisearch": "^0.31.1",
+    "meilisearch": "^0.41.0",
     "next": "^13.2.4",
     "next-themes": "^0.2.1",
     "openai": "^3.2.1",
